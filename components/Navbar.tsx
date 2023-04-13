@@ -29,13 +29,6 @@ export const Navbar = () => {
           ))
 
         }
-
-        {/* 
-        <ActiveLink text="Home" href="/" />
-        <ActiveLink text="About" href="/about" />
-        <ActiveLink text="Contact" href="/contact" /> 
-        <ActiveLink text="Pricing" href="/pricing" />  
-        */}
     </nav>
   );
 };
